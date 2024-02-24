@@ -3,5 +3,8 @@ Currently the best free discord optimization guide/tools
 
 ### Warning
 > These tools use unoffical software/rewrites of the Discord api and may get your discord account disabled/deleted. Do this at your own risk
-### Warning x2
-> These tools only work on x64 based chips/os's do not use if you use anythign lower then x64
+### Things you need
+> A x64 based cpu/os
+> Discord Stable Pre installed (and logged in)
+> The Ability to extract/run .exe's
+
