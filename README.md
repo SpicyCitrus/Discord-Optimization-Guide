@@ -19,3 +19,5 @@ Download the latest release on the repo (the zip) place it on your desktop/downl
 ### Issue's?
 > If you are experiencing issue's with this repo not working as expected then create a ticket in the issue's page of this repo and ill get to you as fast as i can :D
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SpicyCitrus/Discord-Optimization-Guide/total)
+
