@@ -10,6 +10,9 @@ Currently the best free discord optimization guide/tools
 
 > The Ability to extract/run .exe's
 
+### Limitations
+> This guide only works for windows sadly as the program used to install the runtimes only comes in a exe format. This wont completly break everything but its best to install the runtimes via the installer
+
 ### Steps
 Download the latest release on the repo (the zip) place it on your desktop/downloads folder then extract it.
 > 1. Now run the Discord Optimization Apis exe first. This will allow the other tools to run without issue.
