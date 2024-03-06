@@ -15,7 +15,7 @@ Currently the best free discord optimization guide/tools
 
 ### Steps
 Download the latest release on the repo (the zip) place it on your desktop/downloads folder then extract it.
-> 1. Now run the Discord Optimization Apis exe first. This will allow the other tools to run without issue.
+> 1. Now run the Discord Optimization Apis exe first. Then restart pc. This will allow the other tools to run without issue.
 > 2. Then run OpenAsar.exe. This will be your first optimization. This will rewrite Discord's api to run faster and it will be more compressed so i saves you storage :D
 > 3. The last step is to run the Vencord Installer. this will allow you to add themes/addons to Discord. You can also use this to add more optimization addons later on
 
